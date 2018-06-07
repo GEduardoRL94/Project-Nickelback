@@ -23,3 +23,5 @@ Registros de la tabla usuario
 
 6. Ejecutar aplicación en Android Studio.
 
+Pantalla de Inicio (depués del SplashScreen)
+<img src="https://github.com/GEduardoRL94/Proyect-Nickelback/blob/master/step_by_step/03_inicio.png" style="width: 350px;height: 450px;"/>
