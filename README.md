@@ -1,4 +1,4 @@
-# Proyect-Nickelback
+# Project-Nickelback
 List of Nickelback songs and albums
 
 1. Instalar XAMPP:
