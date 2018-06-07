@@ -23,5 +23,28 @@ Registros de la tabla usuario
 
 6. Ejecutar aplicación en Android Studio.
 
-Pantalla de Inicio (depués del SplashScreen)
-<img src="https://github.com/GEduardoRL94/Proyect-Nickelback/blob/master/step_by_step/03_inicio.png" style="width: 350px;height: 450px;"/>
+Pantalla de Inicio (después del SplashScreen)<br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/03_inicio2.png"/>
+<br/><br/>
+
+Registro de Usuario <br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/04_registrar_usuario2.png"/>
+<br/><br/>
+
+Iniciar sesión con el usuario GEduardoRL94<br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/05_iniciar_sesion2.png"/>
+<br/><br/>
+
+Lista de Albumes<br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/06_listar_albumes2.png"/>
+<br/><br/>
+
+Lista de Canciones por Album (Dark Horse)<br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/07_listar_canciones_por_album2.png"/>
+<br/><br/>
+
+Reproducir música (If Today Was Your Last Day)<br/>
+<img src="https://raw.githubusercontent.com/GEduardoRL94/Proyect-Nickelback/master/08_reproducir_musica2.png"/>
+<br/><br/>
+
+
